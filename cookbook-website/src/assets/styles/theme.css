@@ -1,0 +1,7 @@
+:root {
+    /* Default Page Theme */
+    --primary-color: var(--palette-color-1);
+    --secondary-color: var(--palette-color-2);
+    --background-color: var(--palette-color-5);
+    --text-color: black;
+}
