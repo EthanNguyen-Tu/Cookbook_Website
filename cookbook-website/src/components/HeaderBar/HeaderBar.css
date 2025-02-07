@@ -4,7 +4,7 @@
     top: 0;
     padding: 5px;
     height: 50px;
-    width: 100%;
+    max-width: 100%;
     justify-content: flex-start;
     background-color: var(--palette-color-1);
 }
