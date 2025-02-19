@@ -7,4 +7,5 @@
     max-width: 100%;
     justify-content: flex-start;
     background-color: var(--palette-color-1);
+    z-index: 998;
 }

@@ -1,0 +1,12 @@
+.PageBanner {
+    display: flex;
+    position: relative;
+    top: 0;
+    padding: 5px;
+    height: 340px;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--palette-color-1);
+    z-index: 50;
+}
