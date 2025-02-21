@@ -3,7 +3,7 @@ import "./PageBanner.css";
 
 function PageBanner({ title = "Page Title" }) {
     return (
-        <div className="PageBanner">
+        <div id="PageBanner">
             <h1>{title}</h1>
         </div>
     );
