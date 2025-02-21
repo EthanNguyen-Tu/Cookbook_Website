@@ -61,7 +61,7 @@
 .bar {
     height: 20%;
     width: 100%;
-    background-color: var(--secondary-color-variant);
+    background-color: var(--primary-color);
     border-radius: 15%;
     transition: all 0.3s ease;
     z-index: 999;
