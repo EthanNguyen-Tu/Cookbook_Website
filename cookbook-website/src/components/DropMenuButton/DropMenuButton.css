@@ -6,6 +6,7 @@
     flex-direction: column;
     justify-content: space-between;
     z-index: 999;
+    background-color: inherit;
 }
 
 .overlay {
@@ -36,7 +37,7 @@
     width: fit-content;
     min-width: 250px;
 
-    background-color: var(--palette-color-4);
+    background-color: var(--secondary-color-variant);
 
     transform: scaleX(0);
     transform-origin: left;
@@ -60,7 +61,7 @@
 .bar {
     height: 20%;
     width: 100%;
-    background-color: var(--palette-color-4);
+    background-color: var(--secondary-color-variant);
     border-radius: 15%;
     transition: all 0.3s ease;
     z-index: 999;
@@ -71,7 +72,7 @@ Makes all the bars change color when cursor is over
 the MenuButton.
 */
 .DropMenuButton:hover .bar {
-    background-color: var(--palette-color-5);
+    background-color: var(--background-color);
     cursor: pointer;
 }
 

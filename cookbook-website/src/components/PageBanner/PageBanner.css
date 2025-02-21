@@ -7,6 +7,6 @@
     max-width: 100%;
     justify-content: center;
     align-items: center;
-    background-color: var(--palette-color-1);
+    background-color: var(--primary-color-variant);
     z-index: 50;
 }

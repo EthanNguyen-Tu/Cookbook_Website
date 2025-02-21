@@ -1,8 +1,20 @@
 :root {
-    /* Palette from https://coolors.co/palettes/trending */
-    --palette-color-1: #edede9;
-    --palette-color-2: #d6ccc2;
-    --palette-color-3: #f5ebe0;
-    --palette-color-4: #e3d5ca;
-    --palette-color-5: #d5bdaf;
+    /* Palettes from https://coolors.co/palettes/trending */
+    --palette-brown-1: #edede9;
+    --palette-brown-2: #d6ccc2;
+    --palette-brown-3: #f5ebe0;
+    --palette-brown-4: #e3d5ca;
+    --palette-brown-5: #d5bdaf;
+
+    --palette-earth-light-1: #ccd5ae;
+    --palette-earth-light-2: #e9edc9;
+    --palette-earth-light-3: #fefae0;
+    --palette-earth-light-4: #faedcd;
+    --palette-earth-light-5: #d4a373;
+
+    --palette-earth-dark-1: #606c38;
+    --palette-earth-dark-2: #283618;
+    --palette-earth-dark-3: #fefae0;
+    --palette-earth-dark-4: #dda15e;
+    --palette-earth-dark-5: #bc6c25;
 }

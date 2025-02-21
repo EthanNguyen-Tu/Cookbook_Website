@@ -1,7 +1,9 @@
 :root {
     /* Default Page Theme */
-    --primary-color: var(--palette-color-1);
-    --secondary-color: var(--palette-color-2);
-    --background-color: var(--palette-color-5);
+    --primary-color: var(--palette-earth-light-1);
+    --secondary-color: var(--palette-earth-light-2);
+    --primary-color-variant: var(--palette-earth-light-3);
+    --secondary-color-variant: var(--palette-earth-light-4);
+    --background-color: var(--palette-earth-light-5);
     --text-color: black;
 }

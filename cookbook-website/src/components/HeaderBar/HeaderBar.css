@@ -6,6 +6,6 @@
     height: 50px;
     max-width: 100%;
     justify-content: flex-start;
-    background-color: var(--palette-color-1);
+    background-color: var(--primary-color);
     z-index: 998;
 }
