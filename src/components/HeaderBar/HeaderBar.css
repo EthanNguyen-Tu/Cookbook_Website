@@ -6,17 +6,17 @@
     width: 100%;
     justify-content: space-between;
     z-index: 998;
-    transition: background-color 0.5s ease;
+    transition: background-color 0.3s ease;
 }
 
 .opaque {
     background-color: var(--primary-color);
-    transition: background-color 0.5s ease;
+    transition: background-color 0.3s ease;
 }
 
 .opaque .DropMenuButton .bar {
     background-color: var(--secondary-color);
-    transition: background-color 0.5s ease;
+    transition: background-color 0.3s ease;
 }
 
 .space-evenly {
