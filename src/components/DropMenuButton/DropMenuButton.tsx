@@ -22,10 +22,10 @@ function DropMenuButton({ style = {} }) {
 
             <div className="DropMenu">
                 <div className="DropMenuItems">
-                    <button>Test</button>
-                    <button>Test</button>
-                    <button>Test</button>
-                    <button>Test</button>
+                    <span>Test</span>
+                    <span>Test</span>
+                    <span>Test</span>
+                    <span>Test</span>
                 </div>
             </div>
         </button>
