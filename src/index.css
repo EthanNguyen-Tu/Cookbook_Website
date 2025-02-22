@@ -24,5 +24,6 @@ code {
 
 .page-content {
     text-align: center;
+    background-color: var(--page-color);
     width: clamp(min(70vw, 20rem), 70%, max(90vw, 75rem));
 }
