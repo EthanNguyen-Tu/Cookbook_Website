@@ -6,7 +6,7 @@
     flex-direction: column;
     justify-content: space-between;
     z-index: 999;
-    background-color: inherit;
+    background-color: var(--transparent);
 }
 
 .overlay {
